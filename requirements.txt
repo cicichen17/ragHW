@@ -1,0 +1,9 @@
+flask
+langchain
+openai
+chromadb
+opencc-python-reimplemented
+tiktoken
+langchain-openai
+langchain-community
+gunicorn
